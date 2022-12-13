@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(230, 224, 173);
+  }
+
+img {
+    width: 500px;
+    position: relative;
+    left: 30%;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h3 {
+    text-align: center;
+    color:rgb(179, 36, 131);
+    font-size: x-large;
+}
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  }
+  
+nav {
+    text-align: center;
+    line-height: 5;
+}
+
+h4 {
+    text-align: center;
+}
+
+ol {
+    position: relative;
+    left: 41.5%;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    color: red
+}
+
+div {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: 30%;
+}
+
+a {
+    color: rgb(57, 108, 238);
+    font-size: larger;
+}
+
+h5 {
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(240, 92, 117);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1.5;
+}
+
+ul{
+    position: relative;
+    font-size: medium;
+}
+
+
+
+
+
+
+
